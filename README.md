@@ -27,7 +27,7 @@ UI реализован полностью на Tkinter.<br>
 	<img src="/game_readme.png"></img>
 </p>
 
-### Главное меню
+### Изменение поля на 5х5
 <p align="center">
 	<img src="/game_5x5_readme.png"></img>
 </p>
