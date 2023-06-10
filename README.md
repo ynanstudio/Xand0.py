@@ -20,6 +20,7 @@ UI реализован полностью на Tkinter.<br>
 ### Меню настроек
 <p align="center">
 	<img src="/settings_menu_readme.png"></img>
+  <img src="/settings_menu_readme_2.png"></img>
 </p>
 
 ### Окно игры

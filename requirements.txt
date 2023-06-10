@@ -1,3 +1,7 @@
-tkinter
+tk
+os
 cryptography
-threading
+threaded
+cffi
+pyglet
+playsound
