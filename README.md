@@ -15,23 +15,23 @@ UI реализован полностью на Tkinter.<br>
   • Сохранение<br>
 ### Главное меню
 <p align="center">
-	<img src="/main_menu_readme.png"></img>
+	<img src="https://raw.githubusercontent.com/ynanstudio/MinimaxTicTacToeUIpy/main/main_menu_readme.png"></img>
 </p>
 
 ### Меню настроек
 <p align="center">
-	<img src="/settings_menu_readme.png"></img>
-  <img src="/settings_menu_readme_2.png"></img>
+	<img src="https://raw.githubusercontent.com/ynanstudio/MinimaxTicTacToeUIpy/main/settings_menu_readme.png"></img>
+  <img src="https://raw.githubusercontent.com/ynanstudio/MinimaxTicTacToeUIpy/main/settings_menu_readme_2.png"></img>
 </p>
 
 ### Окно игры
 <p align="center">
-	<img src="/game_readme.png"></img>
+	<img src="https://raw.githubusercontent.com/ynanstudio/MinimaxTicTacToeUIpy/main/game_readme.png"></img>
 </p>
 
 ### Изменение поля на 5х5
 <p align="center">
-	<img src="/game_5x5_readme.png"></img>
+	<img src="https://raw.githubusercontent.com/ynanstudio/MinimaxTicTacToeUIpy/main/game_5x5_readme.png"></img>
 </p>
 
 ## Запуск
